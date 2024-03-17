@@ -1,0 +1,27 @@
+body{
+    background: lightsteelblue;
+    font-family: Montserrat;
+}
+
+#gameboard{
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+}
+
+#gamecontainer{
+    margin-top: 5vmin;
+    text-align: center
+}
+
+#scoreText{
+    font-size: 100px;
+}
+
+#resetBtn{
+    cursor: pointer;
+    border: 3px solid;
+    width: 71px;
+    height: 37px;
+    font-size: 21px;
+    border-radius: 15px;
+}
